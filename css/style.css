@@ -296,6 +296,7 @@ header  .logo a span {
     padding: 0 10%;
     margin-bottom: 50px;
     height: 90vh;
+    
 }
 #contact form {
     background-color: #fff;
@@ -303,6 +304,7 @@ header  .logo a span {
     display: flex;
     flex-direction: column;
     padding: 20px;
+    background-image: url("../images/rabat.jpg");
 }
 .left-right {
     display: flex;
