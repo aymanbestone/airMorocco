@@ -78,7 +78,7 @@ header  .logo a span {
 /* Home acceuil CSS */
 
 #home {
-    background: linear-gradient(rgba(0,0,0,0.1),#333), url("./images/Chefchaouen.jpg");
+    background: linear-gradient(rgba(0,0,0,0.1),#333), url(../images/Chefchaouen.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
